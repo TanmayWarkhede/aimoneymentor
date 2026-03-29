@@ -9,7 +9,7 @@ class AiChatService {
 
   // In production, store this in secure storage / env vars
   // For demo: replace with your Anthropic API key
-  static const String _apiKey = 'AIzaSyD21hG9I8gch2JHtRKeLSykJwU2eps1tp8';
+  static const String _apiKey = '';
 
   static const String _systemPrompt =
       '''You are ET Money Mentor, India's most trusted AI-powered personal finance advisor. You are an expert in:
