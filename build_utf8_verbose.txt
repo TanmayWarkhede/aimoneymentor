@@ -1,0 +1,937 @@
+﻿[ +946 ms] Artifact Instance of 'MaterialFonts' is not required, skipping update.
+[        ] Artifact Instance of 'GradleWrapper' is not required, skipping update.
+[        ] Artifact Instance of 'AndroidGenSnapshotArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'AndroidInternalBuildArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IOSEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterWebSdk' is not required, skipping update.
+[   +1 ms] Artifact Instance of 'LegacyCanvasKitRemover' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterSdk' is not required, skipping update.
+[        ] Artifact Instance of 'WindowsEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'MacOSEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'LinuxEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'LinuxFuchsiaSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'MacOSFuchsiaSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterRunnerSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterRunnerDebugSymbols' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FontSubsetArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'PubDependencies' is not required, skipping update.
+[        ] executing: [C:\Users\Tanmay\Downloads\flutter_windows_3.16.8-stable\flutter/] git -c log.showSignature=false log HEAD -n 1 --pretty=format:%ad --date=iso
+[ +166 ms] Exit code 0 from: git -c log.showSignature=false log HEAD -n 1 --pretty=format:%ad --date=iso
+[        ] 2024-11-13 11:13:06 -0800
+[  +20 ms] Artifact Instance of 'AndroidGenSnapshotArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'AndroidInternalBuildArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IOSEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterWebSdk' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterEngineStamp' is not required, skipping update.
+[        ] Artifact Instance of 'LegacyCanvasKitRemover' is not required, skipping update.
+[   +1 ms] Artifact Instance of 'WindowsEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'MacOSEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'LinuxEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'LinuxFuchsiaSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'MacOSFuchsiaSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterRunnerSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterRunnerDebugSymbols' is not required, skipping update.
+[  +38 ms] Artifact Instance of 'MaterialFonts' is not required, skipping update.
+[        ] Artifact Instance of 'GradleWrapper' is not required, skipping update.
+[   +2 ms] Artifact Instance of 'AndroidInternalBuildArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IOSEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterWebSdk' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterEngineStamp' is not required, skipping update.
+[        ] Artifact Instance of 'LegacyCanvasKitRemover' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterSdk' is not required, skipping update.
+[        ] Artifact Instance of 'WindowsEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'MacOSEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'LinuxEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'LinuxFuchsiaSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'MacOSFuchsiaSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterRunnerSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterRunnerDebugSymbols' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FontSubsetArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'PubDependencies' is not required, skipping update.
+[  +56 ms] Skipping pub get: version match.
+[ +109 ms] Found plugin url_launcher at C:\Users\Tanmay\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher-6.3.1\
+[   +4 ms] Found plugin url_launcher_windows at C:\Users\Tanmay\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher_windows-3.1.4\
+[   +4 ms] Found plugin url_launcher_web at C:\Users\Tanmay\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher_web-2.2.3\
+[   +2 ms] Found plugin url_launcher_macos at C:\Users\Tanmay\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher_macos-3.2.2\
+[   +1 ms] Found plugin url_launcher_ios at C:\Users\Tanmay\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher_ios-6.3.3\
+[   +1 ms] Found plugin url_launcher_android at C:\Users\Tanmay\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher_android-6.3.14\
+[   +6 ms] Found plugin shared_preferences at C:\Users\Tanmay\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences-2.2.3\
+[   +5 ms] Found plugin shared_preferences_web at C:\Users\Tanmay\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_web-2.2.2\
+[   +3 ms] Found plugin shared_preferences_foundation at C:\Users\Tanmay\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_foundation-2.5.4\
+[   +1 ms] Found plugin shared_preferences_android at C:\Users\Tanmay\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_android-2.4.7\
+[   +1 ms] Found plugin share_plus at C:\Users\Tanmay\AppData\Local\Pub\Cache\hosted\pub.dev\share_plus-7.2.2\
+[   +7 ms] Found plugin path_provider at C:\Users\Tanmay\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider-2.1.5\
+[   +2 ms] Found plugin path_provider_foundation at C:\Users\Tanmay\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_foundation-2.4.1\
+[   +2 ms] Found plugin path_provider_android at C:\Users\Tanmay\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_android-2.2.15\
+[  +18 ms] Found plugin package_info_plus at C:\Users\Tanmay\AppData\Local\Pub\Cache\hosted\pub.dev\package_info_plus-5.0.1\
+[   +4 ms] Found plugin image_picker at C:\Users\Tanmay\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker-1.1.2\
+[   +2 ms] Found plugin file_selector_windows at C:\Users\Tanmay\AppData\Local\Pub\Cache\hosted\pub.dev\file_selector_windows-0.9.3+4\
+[   +1 ms] Found plugin image_picker_macos at C:\Users\Tanmay\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker_macos-0.2.1+2\
+[   +1 ms] Found plugin file_selector_macos at C:\Users\Tanmay\AppData\Local\Pub\Cache\hosted\pub.dev\file_selector_macos-0.9.4+2\
+[   +1 ms] Found plugin image_picker_linux at C:\Users\Tanmay\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker_linux-0.2.1+2\
+[   +1 ms] Found plugin image_picker_ios at C:\Users\Tanmay\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker_ios-0.8.12+2\
+[   +1 ms] Found plugin image_picker_for_web at C:\Users\Tanmay\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker_for_web-3.0.2\
+[        ] Found plugin image_picker_android at C:\Users\Tanmay\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker_android-0.8.12+21\
+[        ] Found plugin flutter_plugin_android_lifecycle at C:\Users\Tanmay\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_plugin_android_lifecycle-2.0.26\
+[   +1 ms] Found plugin google_sign_in at C:\Users\Tanmay\AppData\Local\Pub\Cache\hosted\pub.dev\google_sign_in-6.2.2\
+[   +1 ms] Found plugin google_sign_in_web at C:\Users\Tanmay\AppData\Local\Pub\Cache\hosted\pub.dev\google_sign_in_web-0.12.3+3\
+[   +3 ms] Found plugin google_sign_in_ios at C:\Users\Tanmay\AppData\Local\Pub\Cache\hosted\pub.dev\google_sign_in_ios-5.9.0\
+[   +1 ms] Found plugin google_sign_in_android at C:\Users\Tanmay\AppData\Local\Pub\Cache\hosted\pub.dev\google_sign_in_android-6.1.35\
+[   +5 ms] Found plugin flutter_local_notifications at C:\Users\Tanmay\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_local_notifications-16.3.3\
+[   +2 ms] Found plugin flutter_local_notifications_linux at C:\Users\Tanmay\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_local_notifications_linux-4.0.1\
+[   +4 ms] Found plugin firebase_core at C:\Users\Tanmay\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_core-2.27.0\
+[   +1 ms] Found plugin firebase_core_web at C:\Users\Tanmay\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_core_web-2.11.5\
+[   +2 ms] Found plugin firebase_auth at C:\Users\Tanmay\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_auth-4.17.8\
+[   +1 ms] Found plugin firebase_auth_web at C:\Users\Tanmay\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_auth_web-5.9.8\
+[   +2 ms] Found plugin file_picker at C:\Users\Tanmay\AppData\Local\Pub\Cache\hosted\pub.dev\file_picker-6.2.1\
+[   +3 ms] Found plugin connectivity_plus at C:\Users\Tanmay\AppData\Local\Pub\Cache\hosted\pub.dev\connectivity_plus-5.0.2\
+[   +5 ms] Found plugin sqflite at C:\Users\Tanmay\AppData\Local\Pub\Cache\hosted\pub.dev\sqflite-2.4.2\
+[   +3 ms] Found plugin sqflite_darwin at C:\Users\Tanmay\AppData\Local\Pub\Cache\hosted\pub.dev\sqflite_darwin-2.4.2\
+[   +1 ms] Found plugin sqflite_android at C:\Users\Tanmay\AppData\Local\Pub\Cache\hosted\pub.dev\sqflite_android-2.4.2+2\
+flutter : [   +6 ms] Package file_picker:linux 
+references file_picker:linux as the default plugin, but 
+it does not provide an inline implementation.
+At line:1 char:1
++ flutter build apk --debug --verbose > 
+build_debug_verbose.txt 2>&1
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: ([   +6 ms] 
+Pa    ck...implementation.:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+           Ask the maintainers of file_picker to either 
+avoid referencing a default implementation via 
+`platforms: linux: default_package: file_picker` or add 
+an inline implementation to file_picker via `platforms: 
+linux:` `pluginClass` or `dartPluginClass`.
+
+[   +1 ms] Package path_provider:linux references 
+path_provider_linux:linux as the default plugin, but 
+the package does not exist, or is not a plugin package.
+           Ask the maintainers of path_provider to 
+either avoid referencing a default implementation via 
+`platforms: linux: default_package: 
+path_provider_linux` or create a plugin named 
+path_provider_linux.
+
+[        ] Package shared_preferences:linux references 
+shared_preferences_linux:linux as the default plugin, 
+but the package does not exist, or is not a plugin 
+package.
+           Ask the maintainers of shared_preferences to 
+either avoid referencing a default implementation via 
+`platforms: linux: default_package: 
+shared_preferences_linux` or create a plugin named 
+shared_preferences_linux.
+
+[        ] Package url_launcher:linux references 
+url_launcher_linux:linux as the default plugin, but the 
+package does not exist, or is not a plugin package.
+           Ask the maintainers of url_launcher to 
+either avoid referencing a default implementation via 
+`platforms: linux: default_package: url_launcher_linux` 
+or create a plugin named url_launcher_linux.
+
+[        ] Package file_picker:macos references 
+file_picker:macos as the default plugin, but it does 
+not provide an inline implementation.
+           Ask the maintainers of file_picker to either 
+avoid referencing a default implementation via 
+`platforms: macos: default_package: file_picker` or add 
+an inline implementation to file_picker via `platforms: 
+macos:` `pluginClass` or `dartPluginClass`.
+
+[        ] Package file_picker:windows references 
+file_picker:windows as the default plugin, but it does 
+not provide an inline implementation.
+           Ask the maintainers of file_picker to either 
+avoid referencing a default implementation via 
+`platforms: windows: default_package: file_picker` or 
+add an inline implementation to file_picker via 
+`platforms: windows:` `pluginClass` or 
+`dartPluginClass`.
+
+[        ] Package image_picker:windows references 
+image_picker_windows:windows as the default plugin, but 
+the package does not exist, or is not a plugin package.
+           Ask the maintainers of image_picker to 
+either avoid referencing a default implementation via 
+`platforms: windows: default_package: 
+image_picker_windows` or create a plugin named 
+image_picker_windows.
+
+[        ] Package path_provider:windows references 
+path_provider_windows:windows as the default plugin, 
+but the package does not exist, or is not a plugin 
+package.
+           Ask the maintainers of path_provider to 
+either avoid referencing a default implementation via 
+`platforms: windows: default_package: 
+path_provider_windows` or create a plugin named 
+path_provider_windows.
+
+[        ] Package shared_preferences:windows 
+references shared_preferences_windows:windows as the 
+default plugin, but the package does not exist, or is 
+not a plugin package.
+           Ask the maintainers of shared_preferences to 
+either avoid referencing a default implementation via 
+`platforms: windows: default_package: 
+shared_preferences_windows` or create a plugin named 
+shared_preferences_windows.
+
+[  +59 ms] Found plugin url_launcher at C:\Users\Tanmay\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher-6.3.1\
+[        ] Found plugin url_launcher_windows at C:\Users\Tanmay\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher_windows-3.1.4\
+[   +1 ms] Found plugin url_launcher_web at C:\Users\Tanmay\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher_web-2.2.3\
+[   +1 ms] Found plugin url_launcher_macos at C:\Users\Tanmay\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher_macos-3.2.2\
+[        ] Found plugin url_launcher_ios at C:\Users\Tanmay\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher_ios-6.3.3\
+[        ] Found plugin url_launcher_android at C:\Users\Tanmay\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher_android-6.3.14\
+[   +2 ms] Found plugin shared_preferences at C:\Users\Tanmay\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences-2.2.3\
+[   +2 ms] Found plugin shared_preferences_web at C:\Users\Tanmay\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_web-2.2.2\
+[   +1 ms] Found plugin shared_preferences_foundation at C:\Users\Tanmay\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_foundation-2.5.4\
+[        ] Found plugin shared_preferences_android at C:\Users\Tanmay\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_android-2.4.7\
+[        ] Found plugin share_plus at C:\Users\Tanmay\AppData\Local\Pub\Cache\hosted\pub.dev\share_plus-7.2.2\
+[   +1 ms] Found plugin path_provider at C:\Users\Tanmay\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider-2.1.5\
+[        ] Found plugin path_provider_foundation at C:\Users\Tanmay\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_foundation-2.4.1\
+[        ] Found plugin path_provider_android at C:\Users\Tanmay\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_android-2.2.15\
+[   +7 ms] Found plugin package_info_plus at C:\Users\Tanmay\AppData\Local\Pub\Cache\hosted\pub.dev\package_info_plus-5.0.1\
+[   +2 ms] Found plugin image_picker at C:\Users\Tanmay\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker-1.1.2\
+[   +1 ms] Found plugin file_selector_windows at C:\Users\Tanmay\AppData\Local\Pub\Cache\hosted\pub.dev\file_selector_windows-0.9.3+4\
+[   +1 ms] Found plugin image_picker_macos at C:\Users\Tanmay\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker_macos-0.2.1+2\
+[        ] Found plugin file_selector_macos at C:\Users\Tanmay\AppData\Local\Pub\Cache\hosted\pub.dev\file_selector_macos-0.9.4+2\
+[        ] Found plugin image_picker_linux at C:\Users\Tanmay\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker_linux-0.2.1+2\
+[        ] Found plugin image_picker_ios at C:\Users\Tanmay\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker_ios-0.8.12+2\
+[        ] Found plugin image_picker_for_web at C:\Users\Tanmay\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker_for_web-3.0.2\
+[        ] Found plugin image_picker_android at C:\Users\Tanmay\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker_android-0.8.12+21\
+[        ] Found plugin flutter_plugin_android_lifecycle at C:\Users\Tanmay\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_plugin_android_lifecycle-2.0.26\
+[        ] Found plugin google_sign_in at C:\Users\Tanmay\AppData\Local\Pub\Cache\hosted\pub.dev\google_sign_in-6.2.2\
+[        ] Found plugin google_sign_in_web at C:\Users\Tanmay\AppData\Local\Pub\Cache\hosted\pub.dev\google_sign_in_web-0.12.3+3\
+[   +1 ms] Found plugin google_sign_in_ios at C:\Users\Tanmay\AppData\Local\Pub\Cache\hosted\pub.dev\google_sign_in_ios-5.9.0\
+[        ] Found plugin google_sign_in_android at C:\Users\Tanmay\AppData\Local\Pub\Cache\hosted\pub.dev\google_sign_in_android-6.1.35\
+[   +4 ms] Found plugin flutter_local_notifications at C:\Users\Tanmay\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_local_notifications-16.3.3\
+[   +2 ms] Found plugin flutter_local_notifications_linux at C:\Users\Tanmay\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_local_notifications_linux-4.0.1\
+[   +2 ms] Found plugin firebase_core at C:\Users\Tanmay\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_core-2.27.0\
+[        ] Found plugin firebase_core_web at C:\Users\Tanmay\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_core_web-2.11.5\
+[   +1 ms] Found plugin firebase_auth at C:\Users\Tanmay\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_auth-4.17.8\
+[        ] Found plugin firebase_auth_web at C:\Users\Tanmay\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_auth_web-5.9.8\
+[   +2 ms] Found plugin file_picker at C:\Users\Tanmay\AppData\Local\Pub\Cache\hosted\pub.dev\file_picker-6.2.1\
+[   +2 ms] Found plugin connectivity_plus at C:\Users\Tanmay\AppData\Local\Pub\Cache\hosted\pub.dev\connectivity_plus-5.0.2\
+[   +3 ms] Found plugin sqflite at C:\Users\Tanmay\AppData\Local\Pub\Cache\hosted\pub.dev\sqflite-2.4.2\
+[   +2 ms] Found plugin sqflite_darwin at C:\Users\Tanmay\AppData\Local\Pub\Cache\hosted\pub.dev\sqflite_darwin-2.4.2\
+[        ] Found plugin sqflite_android at C:\Users\Tanmay\AppData\Local\Pub\Cache\hosted\pub.dev\sqflite_android-2.4.2+2\
+[   +1 ms] Package url_launcher:linux references 
+url_launcher_linux:linux as the default plugin, but the 
+package does not exist, or is not a plugin package.
+           Ask the maintainers of url_launcher to 
+either avoid referencing a default implementation via 
+`platforms: linux: default_package: url_launcher_linux` 
+or create a plugin named url_launcher_linux.
+
+[        ] Package shared_preferences:linux references 
+shared_preferences_linux:linux as the default plugin, 
+but the package does not exist, or is not a plugin 
+package.
+           Ask the maintainers of shared_preferences to 
+either avoid referencing a default implementation via 
+`platforms: linux: default_package: 
+shared_preferences_linux` or create a plugin named 
+shared_preferences_linux.
+
+[        ] Package path_provider:linux references 
+path_provider_linux:linux as the default plugin, but 
+the package does not exist, or is not a plugin package.
+           Ask the maintainers of path_provider to 
+either avoid referencing a default implementation via 
+`platforms: linux: default_package: 
+path_provider_linux` or create a plugin named 
+path_provider_linux.
+
+[        ] Package file_picker:linux references 
+file_picker:linux as the default plugin, but it does 
+not provide an inline implementation.
+           Ask the maintainers of file_picker to either 
+avoid referencing a default implementation via 
+`platforms: linux: default_package: file_picker` or add 
+an inline implementation to file_picker via `platforms: 
+linux:` `pluginClass` or `dartPluginClass`.
+
+[        ] Package file_picker:macos references 
+file_picker:macos as the default plugin, but it does 
+not provide an inline implementation.
+           Ask the maintainers of file_picker to either 
+avoid referencing a default implementation via 
+`platforms: macos: default_package: file_picker` or add 
+an inline implementation to file_picker via `platforms: 
+macos:` `pluginClass` or `dartPluginClass`.
+
+[        ] Package shared_preferences:windows 
+references shared_preferences_windows:windows as the 
+default plugin, but the package does not exist, or is 
+not a plugin package.
+           Ask the maintainers of shared_preferences to 
+either avoid referencing a default implementation via 
+`platforms: windows: default_package: 
+shared_preferences_windows` or create a plugin named 
+shared_preferences_windows.
+
+[        ] Package path_provider:windows references 
+path_provider_windows:windows as the default plugin, 
+but the package does not exist, or is not a plugin 
+package.
+           Ask the maintainers of path_provider to 
+either avoid referencing a default implementation via 
+`platforms: windows: default_package: 
+path_provider_windows` or create a plugin named 
+path_provider_windows.
+
+[        ] Package image_picker:windows references 
+image_picker_windows:windows as the default plugin, but 
+the package does not exist, or is not a plugin package.
+           Ask the maintainers of image_picker to 
+either avoid referencing a default implementation via 
+`platforms: windows: default_package: 
+image_picker_windows` or create a plugin named 
+image_picker_windows.
+
+[        ] Package file_picker:windows references 
+file_picker:windows as the default plugin, but it does 
+not provide an inline implementation.
+           Ask the maintainers of file_picker to either 
+avoid referencing a default implementation via 
+`platforms: windows: default_package: file_picker` or 
+add an inline implementation to file_picker via 
+`platforms: windows:` `pluginClass` or 
+`dartPluginClass`.
+
+[   +8 ms] Skipping generating web_plugin_registrant.dart because it is up-to-date.
+[  +53 ms] Found plugin url_launcher at C:\Users\Tanmay\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher-6.3.1\
+[   +1 ms] Found plugin url_launcher_windows at C:\Users\Tanmay\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher_windows-3.1.4\
+[   +2 ms] Found plugin url_launcher_web at C:\Users\Tanmay\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher_web-2.2.3\
+[   +1 ms] Found plugin url_launcher_macos at C:\Users\Tanmay\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher_macos-3.2.2\
+[   +1 ms] Found plugin url_launcher_ios at C:\Users\Tanmay\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher_ios-6.3.3\
+[        ] Found plugin url_launcher_android at C:\Users\Tanmay\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher_android-6.3.14\
+[   +3 ms] Found plugin shared_preferences at C:\Users\Tanmay\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences-2.2.3\
+[   +2 ms] Found plugin shared_preferences_web at C:\Users\Tanmay\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_web-2.2.2\
+[   +1 ms] Found plugin shared_preferences_foundation at C:\Users\Tanmay\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_foundation-2.5.4\
+[        ] Found plugin shared_preferences_android at C:\Users\Tanmay\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_android-2.4.7\
+[        ] Found plugin share_plus at C:\Users\Tanmay\AppData\Local\Pub\Cache\hosted\pub.dev\share_plus-7.2.2\
+[   +1 ms] Found plugin path_provider at C:\Users\Tanmay\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider-2.1.5\
+[        ] Found plugin path_provider_foundation at C:\Users\Tanmay\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_foundation-2.4.1\
+[        ] Found plugin path_provider_android at C:\Users\Tanmay\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_android-2.2.15\
+[  +10 ms] Found plugin package_info_plus at C:\Users\Tanmay\AppData\Local\Pub\Cache\hosted\pub.dev\package_info_plus-5.0.1\
+[   +2 ms] Found plugin image_picker at C:\Users\Tanmay\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker-1.1.2\
+[   +1 ms] Found plugin file_selector_windows at C:\Users\Tanmay\AppData\Local\Pub\Cache\hosted\pub.dev\file_selector_windows-0.9.3+4\
+[   +3 ms] Found plugin image_picker_macos at C:\Users\Tanmay\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker_macos-0.2.1+2\
+[   +1 ms] Found plugin file_selector_macos at C:\Users\Tanmay\AppData\Local\Pub\Cache\hosted\pub.dev\file_selector_macos-0.9.4+2\
+[        ] Found plugin image_picker_linux at C:\Users\Tanmay\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker_linux-0.2.1+2\
+[        ] Found plugin image_picker_ios at C:\Users\Tanmay\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker_ios-0.8.12+2\
+[   +1 ms] Found plugin image_picker_for_web at C:\Users\Tanmay\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker_for_web-3.0.2\
+[        ] Found plugin image_picker_android at C:\Users\Tanmay\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker_android-0.8.12+21\
+[        ] Found plugin flutter_plugin_android_lifecycle at C:\Users\Tanmay\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_plugin_android_lifecycle-2.0.26\
+[   +1 ms] Found plugin google_sign_in at C:\Users\Tanmay\AppData\Local\Pub\Cache\hosted\pub.dev\google_sign_in-6.2.2\
+[        ] Found plugin google_sign_in_web at C:\Users\Tanmay\AppData\Local\Pub\Cache\hosted\pub.dev\google_sign_in_web-0.12.3+3\
+[   +1 ms] Found plugin google_sign_in_ios at C:\Users\Tanmay\AppData\Local\Pub\Cache\hosted\pub.dev\google_sign_in_ios-5.9.0\
+[        ] Found plugin google_sign_in_android at C:\Users\Tanmay\AppData\Local\Pub\Cache\hosted\pub.dev\google_sign_in_android-6.1.35\
+[   +4 ms] Found plugin flutter_local_notifications at C:\Users\Tanmay\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_local_notifications-16.3.3\
+[   +2 ms] Found plugin flutter_local_notifications_linux at C:\Users\Tanmay\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_local_notifications_linux-4.0.1\
+[   +2 ms] Found plugin firebase_core at C:\Users\Tanmay\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_core-2.27.0\
+[        ] Found plugin firebase_core_web at C:\Users\Tanmay\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_core_web-2.11.5\
+[   +1 ms] Found plugin firebase_auth at C:\Users\Tanmay\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_auth-4.17.8\
+[        ] Found plugin firebase_auth_web at C:\Users\Tanmay\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_auth_web-5.9.8\
+[   +1 ms] Found plugin file_picker at C:\Users\Tanmay\AppData\Local\Pub\Cache\hosted\pub.dev\file_picker-6.2.1\
+[   +1 ms] Found plugin connectivity_plus at C:\Users\Tanmay\AppData\Local\Pub\Cache\hosted\pub.dev\connectivity_plus-5.0.2\
+[   +5 ms] Found plugin sqflite at C:\Users\Tanmay\AppData\Local\Pub\Cache\hosted\pub.dev\sqflite-2.4.2\
+[   +2 ms] Found plugin sqflite_darwin at C:\Users\Tanmay\AppData\Local\Pub\Cache\hosted\pub.dev\sqflite_darwin-2.4.2\
+[        ] Found plugin sqflite_android at C:\Users\Tanmay\AppData\Local\Pub\Cache\hosted\pub.dev\sqflite_android-2.4.2+2\
+[   +1 ms] Package url_launcher:linux references 
+url_launcher_linux:linux as the default plugin, but the 
+package does not exist, or is not a plugin package.
+           Ask the maintainers of url_launcher to 
+either avoid referencing a default implementation via 
+`platforms: linux: default_package: url_launcher_linux` 
+or create a plugin named url_launcher_linux.
+
+[        ] Package shared_preferences:linux references 
+shared_preferences_linux:linux as the default plugin, 
+but the package does not exist, or is not a plugin 
+package.
+           Ask the maintainers of shared_preferences to 
+either avoid referencing a default implementation via 
+`platforms: linux: default_package: 
+shared_preferences_linux` or create a plugin named 
+shared_preferences_linux.
+
+[        ] Package path_provider:linux references 
+path_provider_linux:linux as the default plugin, but 
+the package does not exist, or is not a plugin package.
+           Ask the maintainers of path_provider to 
+either avoid referencing a default implementation via 
+`platforms: linux: default_package: 
+path_provider_linux` or create a plugin named 
+path_provider_linux.
+
+[        ] Package file_picker:linux references 
+file_picker:linux as the default plugin, but it does 
+not provide an inline implementation.
+           Ask the maintainers of file_picker to either 
+avoid referencing a default implementation via 
+`platforms: linux: default_package: file_picker` or add 
+an inline implementation to file_picker via `platforms: 
+linux:` `pluginClass` or `dartPluginClass`.
+
+[        ] Package file_picker:macos references 
+file_picker:macos as the default plugin, but it does 
+not provide an inline implementation.
+           Ask the maintainers of file_picker to either 
+avoid referencing a default implementation via 
+`platforms: macos: default_package: file_picker` or add 
+an inline implementation to file_picker via `platforms: 
+macos:` `pluginClass` or `dartPluginClass`.
+
+[        ] Package shared_preferences:windows 
+references shared_preferences_windows:windows as the 
+default plugin, but the package does not exist, or is 
+not a plugin package.
+           Ask the maintainers of shared_preferences to 
+either avoid referencing a default implementation via 
+`platforms: windows: default_package: 
+shared_preferences_windows` or create a plugin named 
+shared_preferences_windows.
+
+[        ] Package path_provider:windows references 
+path_provider_windows:windows as the default plugin, 
+but the package does not exist, or is not a plugin 
+package.
+           Ask the maintainers of path_provider to 
+either avoid referencing a default implementation via 
+`platforms: windows: default_package: 
+path_provider_windows` or create a plugin named 
+path_provider_windows.
+
+[        ] Package image_picker:windows references 
+image_picker_windows:windows as the default plugin, but 
+the package does not exist, or is not a plugin package.
+           Ask the maintainers of image_picker to 
+either avoid referencing a default implementation via 
+`platforms: windows: default_package: 
+image_picker_windows` or create a plugin named 
+image_picker_windows.
+
+[        ] Package file_picker:windows references 
+file_picker:windows as the default plugin, but it does 
+not provide an inline implementation.
+           Ask the maintainers of file_picker to either 
+avoid referencing a default implementation via 
+`platforms: windows: default_package: file_picker` or 
+add an inline implementation to file_picker via 
+`platforms: windows:` `pluginClass` or 
+`dartPluginClass`.
+
+[   +9 ms] Generating C:\Users\Tanmay\ai_money_mentor\ai_money_mentor\android\app\src\main\java\io\flutter\plugins\GeneratedPluginRegistrant.java
+[   +1 ms] Skipping generating GeneratedPluginRegistrant.java because it is up-to-date.
+[        ] Package url_launcher:linux references 
+url_launcher_linux:linux as the default plugin, but the 
+package does not exist, or is not a plugin package.
+           Ask the maintainers of url_launcher to 
+either avoid referencing a default implementation via 
+`platforms: linux: default_package: url_launcher_linux` 
+or create a plugin named url_launcher_linux.
+
+[        ] Package shared_preferences:linux references 
+shared_preferences_linux:linux as the default plugin, 
+but the package does not exist, or is not a plugin 
+package.
+           Ask the maintainers of shared_preferences to 
+either avoid referencing a default implementation via 
+`platforms: linux: default_package: 
+shared_preferences_linux` or create a plugin named 
+shared_preferences_linux.
+
+[        ] Package path_provider:linux references 
+path_provider_linux:linux as the default plugin, but 
+the package does not exist, or is not a plugin package.
+           Ask the maintainers of path_provider to 
+either avoid referencing a default implementation via 
+`platforms: linux: default_package: 
+path_provider_linux` or create a plugin named 
+path_provider_linux.
+
+[        ] Package file_picker:linux references 
+file_picker:linux as the default plugin, but it does 
+not provide an inline implementation.
+           Ask the maintainers of file_picker to either 
+avoid referencing a default implementation via 
+`platforms: linux: default_package: file_picker` or add 
+an inline implementation to file_picker via `platforms: 
+linux:` `pluginClass` or `dartPluginClass`.
+
+[        ] Package file_picker:macos references 
+file_picker:macos as the default plugin, but it does 
+not provide an inline implementation.
+           Ask the maintainers of file_picker to either 
+avoid referencing a default implementation via 
+`platforms: macos: default_package: file_picker` or add 
+an inline implementation to file_picker via `platforms: 
+macos:` `pluginClass` or `dartPluginClass`.
+
+[        ] Package shared_preferences:windows 
+references shared_preferences_windows:windows as the 
+default plugin, but the package does not exist, or is 
+not a plugin package.
+           Ask the maintainers of shared_preferences to 
+either avoid referencing a default implementation via 
+`platforms: windows: default_package: 
+shared_preferences_windows` or create a plugin named 
+shared_preferences_windows.
+
+[        ] Package path_provider:windows references 
+path_provider_windows:windows as the default plugin, 
+but the package does not exist, or is not a plugin 
+package.
+           Ask the maintainers of path_provider to 
+either avoid referencing a default implementation via 
+`platforms: windows: default_package: 
+path_provider_windows` or create a plugin named 
+path_provider_windows.
+
+[        ] Package image_picker:windows references 
+image_picker_windows:windows as the default plugin, but 
+the package does not exist, or is not a plugin package.
+           Ask the maintainers of image_picker to 
+either avoid referencing a default implementation via 
+`platforms: windows: default_package: 
+image_picker_windows` or create a plugin named 
+image_picker_windows.
+
+[        ] Package file_picker:windows references 
+file_picker:windows as the default plugin, but it does 
+not provide an inline implementation.
+           Ask the maintainers of file_picker to either 
+avoid referencing a default implementation via 
+`platforms: windows: default_package: file_picker` or 
+add an inline implementation to file_picker via 
+`platforms: windows:` `pluginClass` or 
+`dartPluginClass`.
+
+[   +1 ms] Skipping generating GeneratedPluginRegistrant.h because it is up-to-date.
+[   +1 ms] Skipping generating GeneratedPluginRegistrant.m because it is up-to-date.
+[  +63 ms] executing: C:\Program Files\Android\Android Studio2\jbr\bin\java -version
+[  +54 ms] Exit code 1 from: C:\Program Files\Android\Android Studio2\jbr\bin\java -version
+[        ] Error: could not open `C:\Program Files\Android\Android Studio2\jbr\lib\jvm.cfg'
+[   +1 ms] executing: C:\Program Files\Android\Android Studio2\jbr\bin\java -version
+[  +52 ms] Exit code 1 from: C:\Program Files\Android\Android Studio2\jbr\bin\java -version
+[        ] Error: could not open `C:\Program Files\Android\Android Studio2\jbr\lib\jvm.cfg'
+[   +2 ms] executing: C:\Program Files\Android\Android Studio2\jbr\bin\java -version
+[  +43 ms] Exit code 1 from: C:\Program Files\Android\Android Studio2\jbr\bin\java -version
+[        ] Error: could not open `C:\Program Files\Android\Android Studio2\jbr\lib\jvm.cfg'
+[   +1 ms] executing: C:\Program Files\Android\Android Studio3\jbr\bin\java -version
+[ +160 ms] Exit code 0 from: C:\Program Files\Android\Android Studio3\jbr\bin\java -version
+[        ] openjdk version "17.0.11" 2024-04-16
+           OpenJDK Runtime Environment (build 17.0.11+0--11852314)
+           OpenJDK 64-Bit Server VM (build 17.0.11+0--11852314, mixed mode)
+[   +9 ms] executing: C:\Program Files\Android\Android Studio3\jbr\bin\java --version
+[ +119 ms] Exit code 0 from: C:\Program Files\Android\Android Studio3\jbr\bin\java --version
+[        ] openjdk 17.0.11 2024-04-16
+           OpenJDK Runtime Environment (build 17.0.11+0--11852314)
+           OpenJDK 64-Bit Server VM (build 17.0.11+0--11852314, mixed mode)
+[  +21 ms] CMake project not found, skipping support Android 15 16k page size migration.
+[   +5 ms] Using gradle from C:\Users\Tanmay\ai_money_mentor\ai_money_mentor\android\gradlew.bat.
+[   +8 ms] LocalFile: 'C:\Users\Tanmay\ai_money_mentor\ai_money_mentor\android\build.gradle' provides AGP version from plugin id: 8.1.0
+[  +14 ms] Running Gradle task 'assembleDebug'...
+[        ] executing: [C:\Users\Tanmay\ai_money_mentor\ai_money_mentor\android/] C:\Users\Tanmay\ai_money_mentor\ai_money_mentor\android\gradlew.bat --full-stacktrace --info -Pverbose=true -Ptarget-platform=android-arm,android-arm64,android-x64 -Ptarget=lib\main.dart -Pbase-application-name=android.app.Application -Pdart-defines=RkxVVFRFUl9WRVJTSU9OPTMuMjQuNQ==,RkxVVFRFUl9DSEFOTkVMPXN0YWJsZQ==,RkxVVFRFUl9HSVRfVVJMPWh0dHBzOi8vZ2l0aHViLmNvbS9mbHV0dGVyL2ZsdXR0ZXIuZ2l0,RkxVVFRFUl9GUkFNRVdPUktfUkVWSVNJT049ZGVjMmVlNWMxZg==,RkxVVFRFUl9FTkdJTkVfUkVWSVNJT049MTNlNjU4NzI1ZA==,RkxVVFRFUl9EQVJUX1ZFUlNJT049My4xMC4x -Pdart-obfuscation=false -Ptrack-widget-creation=true -Ptree-shake-icons=false assembleDebug
+[ +621 ms] Initialized native services in: C:\Users\Tanmay\.gradle\native
+[        ] Initialized jansi services in: C:\Users\Tanmay\.gradle\native
+[ +106 ms] Received JVM installation metadata from 'C:\Program Files\Android\Android Studio3\jbr': {JAVA_HOME=C:\Program Files\Android\Android Studio3\jbr, JAVA_VERSION=17.0.11, JAVA_VENDOR=JetBrains s.r.o., RUNTIME_NAME=OpenJDK Runtime Environment, RUNTIME_VERSION=17.0.11+0--11852314, VM_NAME=OpenJDK 64-Bit Server VM, VM_VERSION=17.0.11+0--11852314, VM_VENDOR=JetBrains s.r.o., OS_ARCH=amd64}
+[ +201 ms] Found daemon DaemonInfo{pid=12908, address=[077a1434-b91d-4e7d-938e-bb9143691ca2 port:55843, addresses:[/127.0.0.1]], state=Idle, lastBusy=1713714498089, context=DefaultDaemonContext[uid=f43a5f76-8851-4f09-b3c9-1a9a46be0fdf,javaHome=C:\Users\Tanmay\.vscode\extensions\redhat.java-1.29.0-win32-x64\jre\17.0.10-win32-x86_64,daemonRegistryDir=C:\Users\Tanmay\.gradle\daemon,pid=12908,idleTimeout=10800000,priority=NORMAL,daemonOpts=--add-opens=java.base/java.util=ALL-UNNAMED,--add-opens=java.base/java.lang=ALL-UNNAMED,--add-opens=java.base/java.lang.invoke=ALL-UNNAMED,--add-opens=java.prefs/java.util.prefs=ALL-UNNAMED,--add-opens=java.base/java.nio.charset=ALL-UNNAMED,--add-opens=java.base/java.net=ALL-UNNAMED,--add-opens=java.base/java.util.concurrent.atomic=ALL-UNNAMED,-Xmx2048m,-Dfile.encoding=UTF-8,-Duser.country=US,-Duser.language=en,-Duser.variant]} however its context does not match the desired criteria.
+[        ] Java home is different.
+[        ] Wanted: DefaultDaemonContext[uid=null,javaHome=C:\Program Files\Android\Android Studio3\jbr,daemonRegistryDir=C:\Users\Tanmay\.gradle\daemon,pid=195936,idleTimeout=null,priority=NORMAL,daemonOpts=-XX:MaxPermSize=4096m,-XX:+HeapDumpOnOutOfMemoryError,--add-opens=java.base/java.util=ALL-UNNAMED,--add-opens=java.base/java.lang=ALL-UNNAMED,--add-opens=java.base/java.lang.invoke=ALL-UNNAMED,--add-opens=java.prefs/java.util.prefs=ALL-UNNAMED,--add-opens=java.base/java.nio.charset=ALL-UNNAMED,--add-opens=java.base/java.net=ALL-UNNAMED,--add-opens=java.base/java.util.concurrent.atomic=ALL-UNNAMED,-Xmx4G,-Dfile.encoding=windows-1252,-Duser.country=US,-Duser.language=en,-Duser.variant]
+[        ] Actual: DefaultDaemonContext[uid=f43a5f76-8851-4f09-b3c9-1a9a46be0fdf,javaHome=C:\Users\Tanmay\.vscode\extensions\redhat.java-1.29.0-win32-x64\jre\17.0.10-win32-x86_64,daemonRegistryDir=C:\Users\Tanmay\.gradle\daemon,pid=12908,idleTimeout=10800000,priority=NORMAL,daemonOpts=--add-opens=java.base/java.util=ALL-UNNAMED,--add-opens=java.base/java.lang=ALL-UNNAMED,--add-opens=java.base/java.lang.invoke=ALL-UNNAMED,--add-opens=java.prefs/java.util.prefs=ALL-UNNAMED,--add-opens=java.base/java.nio.charset=ALL-UNNAMED,--add-opens=java.base/java.net=ALL-UNNAMED,--add-opens=java.base/java.util.concurrent.atomic=ALL-UNNAMED,-Xmx2048m,-Dfile.encoding=UTF-8,-Duser.country=US,-Duser.language=en,-Duser.variant]
+[        ]   Looking for a different daemon...
+[        ] Found daemon DaemonInfo{pid=12960, address=[cd6bb0b0-b0d6-4382-b76b-6e5f27efd2d8 port:59742, addresses:[/127.0.0.1]], state=Idle, lastBusy=1735207434745, context=DefaultDaemonContext[uid=86a66c43-e926-450f-a747-98c23a30cbb1,javaHome=C:\Users\Tanmay\OneDrive\Desktop\OpenJDK-21,daemonRegistryDir=C:\Users\Tanmay\.gradle\daemon,pid=12960,idleTimeout=10800000,priority=NORMAL,daemonOpts=-XX:MaxMetaspaceSize=2G,-XX:+HeapDumpOnOutOfMemoryError,--add-opens=java.base/java.util=ALL-UNNAMED,--add-opens=java.base/java.lang=ALL-UNNAMED,--add-opens=java.base/java.lang.invoke=ALL-UNNAMED,--add-opens=java.prefs/java.util.prefs=ALL-UNNAMED,--add-opens=java.base/java.nio.charset=ALL-UNNAMED,--add-opens=java.base/java.net=ALL-UNNAMED,--add-opens=java.base/java.util.concurrent.atomic=ALL-UNNAMED,-Xmx4G,-Dfile.encoding=UTF-8,-Duser.country,-Duser.language=en,-Duser.variant]} however its context does not match the desired criteria.
+[        ] Java home is different.
+[        ] Wanted: DefaultDaemonContext[uid=null,javaHome=C:\Program Files\Android\Android Studio3\jbr,daemonRegistryDir=C:\Users\Tanmay\.gradle\daemon,pid=195936,idleTimeout=null,priority=NORMAL,daemonOpts=-XX:MaxPermSize=4096m,-XX:+HeapDumpOnOutOfMemoryError,--add-opens=java.base/java.util=ALL-UNNAMED,--add-opens=java.base/java.lang=ALL-UNNAMED,--add-opens=java.base/java.lang.invoke=ALL-UNNAMED,--add-opens=java.prefs/java.util.prefs=ALL-UNNAMED,--add-opens=java.base/java.nio.charset=ALL-UNNAMED,--add-opens=java.base/java.net=ALL-UNNAMED,--add-opens=java.base/java.util.concurrent.atomic=ALL-UNNAMED,-Xmx4G,-Dfile.encoding=windows-1252,-Duser.country=US,-Duser.language=en,-Duser.variant]
+[        ] Actual: DefaultDaemonContext[uid=86a66c43-e926-450f-a747-98c23a30cbb1,javaHome=C:\Users\Tanmay\OneDrive\Desktop\OpenJDK-21,daemonRegistryDir=C:\Users\Tanmay\.gradle\daemon,pid=12960,idleTimeout=10800000,priority=NORMAL,daemonOpts=-XX:MaxMetaspaceSize=2G,-XX:+HeapDumpOnOutOfMemoryError,--add-opens=java.base/java.util=ALL-UNNAMED,--add-opens=java.base/java.lang=ALL-UNNAMED,--add-opens=java.base/java.lang.invoke=ALL-UNNAMED,--add-opens=java.prefs/java.util.prefs=ALL-UNNAMED,--add-opens=java.base/java.nio.charset=ALL-UNNAMED,--add-opens=java.base/java.net=ALL-UNNAMED,--add-opens=java.base/java.util.concurrent.atomic=ALL-UNNAMED,-Xmx4G,-Dfile.encoding=UTF-8,-Duser.country,-Duser.language=en,-Duser.variant]
+[        ]   Looking for a different daemon...
+[        ] Found daemon DaemonInfo{pid=12400, address=[519c3de0-f147-4b0d-b238-c1b89cb147e7 port:53080, addresses:[/127.0.0.1]], state=Idle, lastBusy=1735207612726, context=DefaultDaemonContext[uid=a9dfdc30-fe86-4b23-8301-da060f944724,javaHome=C:\Program Files\Android\Android Studio3\jbr,daemonRegistryDir=C:\Users\Tanmay\.gradle\daemon,pid=12400,idleTimeout=10800000,priority=NORMAL,daemonOpts=-XX:MaxMetaspaceSize=2G,-XX:+HeapDumpOnOutOfMemoryError,--add-opens=java.base/java.util=ALL-UNNAMED,--add-opens=java.base/java.lang=ALL-UNNAMED,--add-opens=java.base/java.lang.invoke=ALL-UNNAMED,--add-opens=java.prefs/java.util.prefs=ALL-UNNAMED,--add-opens=java.base/java.nio.charset=ALL-UNNAMED,--add-opens=java.base/java.net=ALL-UNNAMED,--add-opens=java.base/java.util.concurrent.atomic=ALL-UNNAMED,-Xmx4G,-Dfile.encoding=windows-1252,-Duser.country=US,-Duser.language=en,-Duser.variant]} however its context does not match the desired criteria.
+[        ] At least one daemon option is different.
+[        ] Wanted: DefaultDaemonContext[uid=null,javaHome=C:\Program Files\Android\Android Studio3\jbr,daemonRegistryDir=C:\Users\Tanmay\.gradle\daemon,pid=195936,idleTimeout=null,priority=NORMAL,daemonOpts=-XX:MaxPermSize=4096m,-XX:+HeapDumpOnOutOfMemoryError,--add-opens=java.base/java.util=ALL-UNNAMED,--add-opens=java.base/java.lang=ALL-UNNAMED,--add-opens=java.base/java.lang.invoke=ALL-UNNAMED,--add-opens=java.prefs/java.util.prefs=ALL-UNNAMED,--add-opens=java.base/java.nio.charset=ALL-UNNAMED,--add-opens=java.base/java.net=ALL-UNNAMED,--add-opens=java.base/java.util.concurrent.atomic=ALL-UNNAMED,-Xmx4G,-Dfile.encoding=windows-1252,-Duser.country=US,-Duser.language=en,-Duser.variant]
+[        ] Actual: DefaultDaemonContext[uid=a9dfdc30-fe86-4b23-8301-da060f944724,javaHome=C:\Program Files\Android\Android Studio3\jbr,daemonRegistryDir=C:\Users\Tanmay\.gradle\daemon,pid=12400,idleTimeout=10800000,priority=NORMAL,daemonOpts=-XX:MaxMetaspaceSize=2G,-XX:+HeapDumpOnOutOfMemoryError,--add-opens=java.base/java.util=ALL-UNNAMED,--add-opens=java.base/java.lang=ALL-UNNAMED,--add-opens=java.base/java.lang.invoke=ALL-UNNAMED,--add-opens=java.prefs/java.util.prefs=ALL-UNNAMED,--add-opens=java.base/java.nio.charset=ALL-UNNAMED,--add-opens=java.base/java.net=ALL-UNNAMED,--add-opens=java.base/java.util.concurrent.atomic=ALL-UNNAMED,-Xmx4G,-Dfile.encoding=windows-1252,-Duser.country=US,-Duser.language=en,-Duser.variant]
+[        ]   Looking for a different daemon...
+[        ] Found daemon DaemonInfo{pid=10404, address=[ab4026f1-f0fe-4275-ac6f-f1f1336fe165 port:62148, addresses:[/127.0.0.1]], state=Idle, lastBusy=1735303208389, context=DefaultDaemonContext[uid=6a9c3bfc-1387-46a0-bfe4-bb8e61727ac2,javaHome=C:\Program Files\Java\jdk-17,daemonRegistryDir=C:\Users\Tanmay\.gradle\daemon,pid=10404,idleTimeout=10800000,priority=NORMAL,daemonOpts=-XX:MaxMetaspaceSize=2G,-XX:+HeapDumpOnOutOfMemoryError,--add-opens=java.base/java.util=ALL-UNNAMED,--add-opens=java.base/java.lang=ALL-UNNAMED,--add-opens=java.base/java.lang.invoke=ALL-UNNAMED,--add-opens=java.prefs/java.util.prefs=ALL-UNNAMED,--add-opens=java.base/java.nio.charset=ALL-UNNAMED,--add-opens=java.base/java.net=ALL-UNNAMED,--add-opens=java.base/java.util.concurrent.atomic=ALL-UNNAMED,-Xmx4G,-Dfile.encoding=windows-1252,-Duser.country=US,-Duser.language=en,-Duser.variant]} however its context does not match the desired criteria.
+[        ] Java home is different.
+[        ] Wanted: DefaultDaemonContext[uid=null,javaHome=C:\Program Files\Android\Android Studio3\jbr,daemonRegistryDir=C:\Users\Tanmay\.gradle\daemon,pid=195936,idleTimeout=null,priority=NORMAL,daemonOpts=-XX:MaxPermSize=4096m,-XX:+HeapDumpOnOutOfMemoryError,--add-opens=java.base/java.util=ALL-UNNAMED,--add-opens=java.base/java.lang=ALL-UNNAMED,--add-opens=java.base/java.lang.invoke=ALL-UNNAMED,--add-opens=java.prefs/java.util.prefs=ALL-UNNAMED,--add-opens=java.base/java.nio.charset=ALL-UNNAMED,--add-opens=java.base/java.net=ALL-UNNAMED,--add-opens=java.base/java.util.concurrent.atomic=ALL-UNNAMED,-Xmx4G,-Dfile.encoding=windows-1252,-Duser.country=US,-Duser.language=en,-Duser.variant]
+[        ] Actual: DefaultDaemonContext[uid=6a9c3bfc-1387-46a0-bfe4-bb8e61727ac2,javaHome=C:\Program Files\Java\jdk-17,daemonRegistryDir=C:\Users\Tanmay\.gradle\daemon,pid=10404,idleTimeout=10800000,priority=NORMAL,daemonOpts=-XX:MaxMetaspaceSize=2G,-XX:+HeapDumpOnOutOfMemoryError,--add-opens=java.base/java.util=ALL-UNNAMED,--add-opens=java.base/java.lang=ALL-UNNAMED,--add-opens=java.base/java.lang.invoke=ALL-UNNAMED,--add-opens=java.prefs/java.util.prefs=ALL-UNNAMED,--add-opens=java.base/java.nio.charset=ALL-UNNAMED,--add-opens=java.base/java.net=ALL-UNNAMED,--add-opens=java.base/java.util.concurrent.atomic=ALL-UNNAMED,-Xmx4G,-Dfile.encoding=windows-1252,-Duser.country=US,-Duser.language=en,-Duser.variant]
+[        ]   Looking for a different daemon...
+[ +104 ms] The client will now receive all logging from the daemon (pid: 114328). The daemon log file: C:\Users\Tanmay\.gradle\daemon\8.0\daemon-114328.out.log
+[        ] Starting 7th build in daemon [uptime: 11 mins 21.431 secs, performance: 100%, GC rate: 0.00/s, heap usage: 0% of 4 GiB]
+[        ] Using 8 worker leases.
+[        ] Now considering [C:\Users\Tanmay\ai_money_mentor\ai_money_mentor\android, C:\Users\Tanmay\Downloads\flutter_windows_3.16.8-stable\flutter\packages\flutter_tools\gradle] as hierarchies to watch
+[        ] Watching the file system is configured to be enabled if available
+[        ] File system watching is active
+[        ] Starting Build
+[        ] Now considering [C:\Users\Tanmay\Downloads\flutter_windows_3.16.8-stable\flutter\packages\flutter_tools\gradle, C:\Users\Tanmay\ai_money_mentor\ai_money_mentor\android] as hierarchies to watch
+[ +198 ms] > Configure project :gradle
+[        ] Evaluating project ':gradle' using build file 'C:\Users\Tanmay\Downloads\flutter_windows_3.16.8-stable\flutter\packages\flutter_tools\gradle\build.gradle.kts'.
+[        ] The configuration detachedConfiguration1 is both resolvable and consumable. This is considered a legacy configuration and it will eventually only be possible to be one of these.
+[        ] The configuration detachedConfiguration1 is both consumable and declarable. This combination is incorrect, only one of these flags should be set.
+[        ] The configuration detachedConfiguration1 is both resolvable and consumable. This is considered a legacy configuration and it will eventually only be possible to be one of these.
+[        ] The configuration detachedConfiguration1 is both consumable and declarable. This combination is incorrect, only one of these flags should be set.
+[        ] The configuration detachedConfiguration2 is both resolvable and consumable. This is considered a legacy configuration and it will eventually only be possible to be one of these.
+[        ] The configuration detachedConfiguration2 is both consumable and declarable. This combination is incorrect, only one of these flags should be set.
+[        ] The configuration detachedConfiguration2 is both resolvable and consumable. This is considered a legacy configuration and it will eventually only be possible to be one of these.
+[        ] The configuration detachedConfiguration2 is both consumable and declarable. This combination is incorrect, only one of these flags should be set.
+[        ] The configuration :gradle:classpath is both resolvable and consumable. This is considered a legacy configuration and it will eventually only be possible to be one of these.
+[        ] The configuration :gradle:classpath is both consumable and declarable. This combination is incorrect, only one of these flags should be set.
+[        ] The configuration :gradle:classpath is both resolvable and consumable. This is considered a legacy configuration and it will eventually only be possible to be one of these.
+[        ] The configuration :gradle:classpath is both consumable and declarable. This combination is incorrect, only one of these flags should be set.
+[        ] Using Kotlin Gradle Plugin gradle80 variant
+[        ] kotlin scripting plugin: created the scripting discovery configuration: kotlinScriptDef
+[        ] kotlin scripting plugin: created the scripting discovery configuration: testKotlinScriptDef
+[        ] WARNING: Unsupported Kotlin plugin version.
+[        ] The `embedded-kotlin` and `kotlin-dsl` plugins rely on features of Kotlin `1.8.10` that might work differently than in the requested version `1.9.20`.
+[        ] file or directory 'C:\Users\Tanmay\Downloads\flutter_windows_3.16.8-stable\flutter\packages\flutter_tools\gradle\src\main\resources', not found
+[        ] file or directory 'C:\Users\Tanmay\Downloads\flutter_windows_3.16.8-stable\flutter\packages\flutter_tools\gradle\src\main\java', not found
+[        ] file or directory 'C:\Users\Tanmay\Downloads\flutter_windows_3.16.8-stable\flutter\packages\flutter_tools\gradle\src\main\groovy', not found
+[        ] Caching disabled for Kotlin DSL accessors for project ':gradle' because:
+[        ]   Build cache is disabled
+[        ] Skipping Kotlin DSL accessors for project ':gradle' as it is up-to-date.
+[        ] The configuration classpath is both resolvable and consumable. This is considered a legacy configuration and it will eventually only be possible to be one of these.
+[        ] The configuration classpath is both consumable and declarable. This combination is incorrect, only one of these flags should be set.
+[        ] The configuration :gradle:embeddedKotlin is both resolvable and consumable. This is considered a legacy configuration and it will eventually only be possible to be one of these.
+[        ] The configuration :gradle:embeddedKotlin is both consumable and declarable. This combination is incorrect, only one of these flags should be set.
+[        ] The configuration :gradle:mainSourceElements is both consumable and declarable. This combination is incorrect, only one of these flags should be set.
+[        ] The configuration :gradle:testResultsElementsForTest is both consumable and declarable. This combination is incorrect, only one of these flags should be set.
+[        ] Resolve mutations for :gradle:checkKotlinGradlePluginConfigurationErrors (Thread[Execution worker,5,main]) started.
+[        ] :gradle:checkKotlinGradlePluginConfigurationErrors (Thread[Execution worker,5,main]) started.
+[        ] > Task :gradle:checkKotlinGradlePluginConfigurationErrors
+[        ] Caching disabled for task ':gradle:checkKotlinGradlePluginConfigurationErrors' because:
+[        ]   Build cache is disabled
+[        ] Task ':gradle:checkKotlinGradlePluginConfigurationErrors' is not up-to-date because:
+[        ]   Task has not declared any outputs despite executing actions.
+[        ] Resolve mutations for :gradle:compileKotlin (Thread[Execution worker,5,main]) started.
+[        ] :gradle:compileKotlin (Thread[Execution worker,5,main]) started.
+[  +85 ms] Resolve mutations for :gradle:pluginDescriptors (Thread[Execution worker Thread 3,5,main]) started.
+[        ] :gradle:pluginDescriptors (Thread[Execution worker Thread 3,5,main]) started.
+[        ] > Task :gradle:pluginDescriptors UP-TO-DATE
+[        ] Caching disabled for task ':gradle:pluginDescriptors' because:
+[        ]   Build cache is disabled
+[        ] Skipping task ':gradle:pluginDescriptors' as it is up-to-date.
+[        ] Resolve mutations for :gradle:processResources (Thread[Execution worker Thread 3,5,main]) started.
+[        ] :gradle:processResources (Thread[Execution worker Thread 5,5,main]) started.
+[        ] > Task :gradle:processResources UP-TO-DATE
+[        ] Caching disabled for task ':gradle:processResources' because:
+[        ]   Build cache is disabled
+[        ] Skipping task ':gradle:processResources' as it is up-to-date.
+[+1895 ms] > Task :gradle:compileKotlin
+[        ] Transforming gradle-api-8.0.jar with ClasspathEntrySnapshotTransform
+[        ] Transforming groovy-3.0.13.jar with ClasspathEntrySnapshotTransform
+[        ] Transforming groovy-ant-3.0.13.jar with ClasspathEntrySnapshotTransform
+[        ] Transforming groovy-astbuilder-3.0.13.jar with ClasspathEntrySnapshotTransform
+[        ] Transforming groovy-console-3.0.13.jar with ClasspathEntrySnapshotTransform
+[        ] Transforming groovy-datetime-3.0.13.jar with ClasspathEntrySnapshotTransform
+[        ] Transforming groovy-dateutil-3.0.13.jar with ClasspathEntrySnapshotTransform
+[        ] Transforming groovy-groovydoc-3.0.13.jar with ClasspathEntrySnapshotTransform
+[        ] Transforming groovy-json-3.0.13.jar with ClasspathEntrySnapshotTransform
+[        ] Transforming groovy-nio-3.0.13.jar with ClasspathEntrySnapshotTransform
+[        ] Transforming groovy-sql-3.0.13.jar with ClasspathEntrySnapshotTransform
+[        ] Transforming groovy-templates-3.0.13.jar with ClasspathEntrySnapshotTransform
+[        ] Transforming groovy-test-3.0.13.jar with ClasspathEntrySnapshotTransform
+[        ] Transforming groovy-xml-3.0.13.jar with ClasspathEntrySnapshotTransform
+[        ] Transforming javaparser-core-3.17.0.jar with ClasspathEntrySnapshotTransform
+[        ] Transforming kotlin-stdlib-1.8.10.jar with ClasspathEntrySnapshotTransform
+[        ] Transforming kotlin-stdlib-common-1.8.10.jar with ClasspathEntrySnapshotTransform
+[        ] Transforming kotlin-reflect-1.8.10.jar with ClasspathEntrySnapshotTransform
+[        ] Transforming kotlin-stdlib-jdk7-1.8.10.jar with ClasspathEntrySnapshotTransform
+[        ] Transforming kotlin-stdlib-jdk8-1.8.10.jar with ClasspathEntrySnapshotTransform
+[        ] Transforming gradle-installation-beacon-8.0.jar with ClasspathEntrySnapshotTransform
+[        ] Transforming gradle-kotlin-dsl-extensions-8.0.jar with ClasspathEntrySnapshotTransform
+[        ] Transforming gradle-kotlin-dsl-8.0.jar with ClasspathEntrySnapshotTransform
+[        ] Transforming gradle-kotlin-dsl-tooling-models-8.0.jar with ClasspathEntrySnapshotTransform
+[        ] Transforming annotation-jvm-1.9.1.jar with ClasspathEntrySnapshotTransform
+[        ] Transforming gradle-8.11.1.jar with ClasspathEntrySnapshotTransform
+[        ] Transforming kotlin-reflect-1.8.10.jar with ClasspathEntrySnapshotTransform
+[        ] Transforming kotlin-stdlib-jdk7-1.8.10.jar with ClasspathEntrySnapshotTransform
+[        ] Transforming kotlinx-serialization-json-jvm-1.4.0.jar with ClasspathEntrySnapshotTransform
+[        ] Transforming kotlinx-serialization-core-jvm-1.4.0.jar with ClasspathEntrySnapshotTransform
+[        ] Transforming kotlin-stdlib-1.9.24.jar with ClasspathEntrySnapshotTransform
+[        ] Transforming kotlin-stdlib-jdk8-1.8.10.jar with ClasspathEntrySnapshotTransform
+[        ] Transforming kotlin-gradle-plugin-1.8.0-gradle76.jar with ClasspathEntrySnapshotTransform
+[        ] Transforming builder-8.11.1.jar with ClasspathEntrySnapshotTransform
+[        ] Transforming builder-model-8.11.1.jar with ClasspathEntrySnapshotTransform
+[        ] Transforming gradle-api-8.11.1.jar with ClasspathEntrySnapshotTransform
+[        ] Transforming kotlin-gradle-plugin-model-1.8.0.jar with ClasspathEntrySnapshotTransform
+[        ] Transforming kotlin-gradle-plugin-api-1.8.0-gradle76.jar with ClasspathEntrySnapshotTransform
+[        ] Transforming kotlin-gradle-plugin-api-1.8.0.jar with ClasspathEntrySnapshotTransform
+[        ] Transforming kotlin-tooling-core-1.8.0.jar with ClasspathEntrySnapshotTransform
+[        ] Transforming annotations-13.0.jar with ClasspathEntrySnapshotTransform
+[        ] Transforming manifest-merger-31.11.1.jar with ClasspathEntrySnapshotTransform
+[        ] Transforming zipflinger-8.11.1.jar with ClasspathEntrySnapshotTransform
+[        ] Transforming apksig-8.11.1.jar with ClasspathEntrySnapshotTransform
+[        ] Transforming apkzlib-8.11.1.jar with ClasspathEntrySnapshotTransform
+[        ] Transforming javawriter-2.5.0.jar with ClasspathEntrySnapshotTransform
+[        ] Transforming asm-9.7.1.jar with ClasspathEntrySnapshotTransform
+[        ] Transforming kotlin-native-utils-1.8.0.jar with ClasspathEntrySnapshotTransform
+[        ] Transforming kotlin-project-model-1.8.0.jar with ClasspathEntrySnapshotTransform
+[        ] Transforming kotlin-util-io-1.8.0.jar with ClasspathEntrySnapshotTransform
+[        ] Caching disabled for task ':gradle:compileKotlin' because:
+[        ]   Build cache is disabled
+[        ] Task ':gradle:compileKotlin' is not up-to-date because:
+[        ]   Task has failed previously.
+[        ] The input changes require a full rebuild for incremental task ':gradle:compileKotlin'.
+[        ] file or directory 'C:\Users\Tanmay\Downloads\flutter_windows_3.16.8-stable\flutter\packages\flutter_tools\gradle\src\main\java', not found
+[        ] file or directory 'C:\Users\Tanmay\Downloads\flutter_windows_3.16.8-stable\flutter\packages\flutter_tools\gradle\src\main\java', not found
+[        ] file or directory 'C:\Users\Tanmay\Downloads\flutter_windows_3.16.8-stable\flutter\packages\flutter_tools\gradle\src\main\java', not found
+[        ] file or directory 'C:\Users\Tanmay\Downloads\flutter_windows_3.16.8-stable\flutter\packages\flutter_tools\gradle\src\main\java', not found
+[        ] Kotlin source files: C:\Users\Tanmay\Downloads\flutter_windows_3.16.8-stable\flutter\packages\flutter_tools\gradle\src\main\kotlin\AppLinkSettings.kt, C:\Users\Tanmay\Downloads\flutter_windows_3.16.8-stable\flutter\packages\flutter_tools\gradle\src\main\kotlin\BaseApplicationNameHandler.kt, C:\Users\Tanmay\Downloads\flutter_windows_3.16.8-stable\flutter\packages\flutter_tools\gradle\src\main\kotlin\Deeplink.kt, C:\Users\Tanmay\Downloads\flutter_windows_3.16.8-stable\flutter\packages\flutter_tools\gradle\src\main\kotlin\DependencyVersionChecker.kt, C:\Users\Tanmay\Downloads\flutter_windows_3.16.8-stable\flutter\packages\flutter_tools\gradle\src\main\kotlin\FlutterAppPluginLoaderPlugin.kt, C:\Users\Tanmay\Downloads\flutter_windows_3.16.8-stable\flutter\packages\flutter_tools\gradle\src\main\kotlin\FlutterExtension.kt, C:\Users\Tanmay\Downloads\flutter_windows_3.16.8-stable\flutter\packages\flutter_tools\gradle\src\main\kotlin\FlutterPlugin.kt, C:\Users\Tanmay\Downloads\flutter_windows_3.16.8-stable\flutter\packages\flutter_tools\gradle\src\main\kotlin\FlutterPluginConstants.kt, C:\Users\Tanmay\Downloads\flutter_windows_3.16.8-stable\flutter\packages\flutter_tools\gradle\src\main\kotlin\FlutterPluginUtils.kt, C:\Users\Tanmay\Downloads\flutter_windows_3.16.8-stable\flutter\packages\flutter_tools\gradle\src\main\kotlin\IntentFilterCheck.kt, C:\Users\Tanmay\Downloads\flutter_windows_3.16.8-stable\flutter\packages\flutter_tools\gradle\src\main\kotlin\NativePluginLoaderReflectionBridge.kt, C:\Users\Tanmay\Downloads\flutter_windows_3.16.8-stable\flutter\packages\flutter_tools\gradle\src\main\kotlin\plugins\PluginHandler.kt, C:\Users\Tanmay\Downloads\flutter_windows_3.16.8-stable\flutter\packages\flutter_tools\gradle\src\main\kotlin\tasks\BaseFlutterTask.kt, C:\Users\Tanmay\Downloads\flutter_windows_3.16.8-stable\flutter\packages\flutter_tools\gradle\src\main\kotlin\tasks\BaseFlutterTaskHelper.kt, C:\Users\Tanmay\Downloads\flutter_windows_3.16.8-stable\flutter\packages\flutter_tools\gradle\src\main\kotlin\tasks\DeepLinkJsonFromManifestTask.kt, C:\Users\Tanmay\Downloads\flutter_windows_3.16.8-stable\flutter\packages\flutter_tools\gradle\src\main\kotlin\tasks\DeepLinkJsonFromManifestTaskHelper.kt, C:\Users\Tanmay\Downloads\flutter_windows_3.16.8-stable\flutter\packages\flutter_tools\gradle\src\main\kotlin\tasks\FlutterTask.kt, C:\Users\Tanmay\Downloads\flutter_windows_3.16.8-stable\flutter\packages\flutter_tools\gradle\src\main\kotlin\tasks\FlutterTaskHelper.kt, C:\Users\Tanmay\Downloads\flutter_windows_3.16.8-stable\flutter\packages\flutter_tools\gradle\src\main\kotlin\VersionFetcher.kt, C:\Users\Tanmay\Downloads\flutter_windows_3.16.8-stable\flutter\packages\flutter_tools\gradle\src\main\kotlin\VersionUtils.kt
+[        ] Java source files: 
+[        ] Script source files: 
+[        ] Script file extensions: 
+[        ] Using Kotlin/JVM incremental compilation
+[        ] [KOTLIN] Kotlin compilation 'jdkHome' argument: C:\Program Files\Android\Android Studio3\jbr
+[        ] i: found daemon on port 17427 (160941 ms old), trying to connect
+[        ] i: cannot connect to registry: Connection refused: connect
+[        ] i: found fresh run file 'C:\Users\Tanmay\AppData\Local\kotlin\daemon\kotlin-daemon.2026-03-29T06-47-39.483Z.110a738f59d8333aaff269685b6687e2.17427.run' (160941 ms old), but no daemon, ignoring it
+[        ] i: found daemon on port 17455 (103558 ms old), trying to connect
+[        ] i: connected to the daemon
+[        ] Options for KOTLIN DAEMON: IncrementalCompilationOptions(super=CompilationOptions(compilerMode=INCREMENTAL_COMPILER, targetPlatform=JVM, reportCategories=[0, 3], reportSeverity=2, requestedCompilationResults=[0], kotlinScriptExtensions=[]), areFileChangesKnown=false, modifiedFiles=null, deletedFiles=null, classpathChanges=NotAvailableForNonIncrementalRun, workingDir=C:\Users\Tanmay\Downloads\flutter_windows_3.16.8-stable\flutter\packages\flutter_tools\gradle\build\kotlin\compileKotlin\cacheable, multiModuleICSettings=MultiModuleICSettings(buildHistoryFile=C:\Users\Tanmay\Downloads\flutter_windows_3.16.8-stable\flutter\packages\flutter_tools\gradle\build\kotlin\compileKotlin\local-state\build-history.bin, useModuleDetection=false), usePreciseJavaTracking=true, outputFiles=[C:\Users\Tanmay\Downloads\flutter_windows_3.16.8-stable\flutter\packages\flutter_tools\gradle\build\classes\kotlin\main, C:\Users\Tanmay\Downloads\flutter_windows_3.16.8-stable\flutter\packages\flutter_tools\gradle\build\kotlin\compileKotlin\cacheable, C:\Users\Tanmay\Downloads\flutter_windows_3.16.8-stable\flutter\packages\flutter_tools\gradle\build\kotlin\compileKotlin\local-state])
+[+1895 ms] Unable to clear jar cache after compilation, maybe daemon is already down: java.rmi.ConnectException: Connection refused to host: 127.0.0.1; nested exception is: 
+[        ] 	java.net.ConnectException: Connection refused: connect
+[        ] e: Daemon compilation failed: Connection to 
+the Kotlin daemon has been unexpectedly lost. This 
+might be caused by the daemon being killed by another 
+process or the operating system, or by JVM crash.
+[        ] org.jetbrains.kotlin.gradle.tasks.DaemonCrash
+edException: Connection to the Kotlin daemon has been 
+unexpectedly lost. This might be caused by the daemon 
+being killed by another process or the operating 
+system, or by JVM crash.
+[        ] 	at org.jetbrains.kotlin.compilerRunner.Gradl
+eKotlinCompilerWork.compileWithDaemon(GradleKotlinCompil
+erWork.kt:250)
+[        ] 	at org.jetbrains.kotlin.compilerRunner.Gradl
+eKotlinCompilerWork.compileWithDaemonOrFallbackImpl(Grad
+leKotlinCompilerWork.kt:175)
+[        ] 	at org.jetbrains.kotlin.compilerRunner.Gradl
+eKotlinCompilerWork.run(GradleKotlinCompilerWork.kt:135)
+[        ] 	at org.jetbrains.kotlin.compilerRunner.Gradl
+eCompilerRunnerWithWorkers$GradleKotlinCompilerWorkActio
+n.execute(GradleCompilerRunnerWithWorkers.kt:73)
+[        ] 	at org.gradle.workers.internal.DefaultWorker
+Server.execute(DefaultWorkerServer.java:63)
+[        ] 	at org.gradle.workers.internal.NoIsolationWo
+rkerFactory$1$1.create(NoIsolationWorkerFactory.java:66)
+[        ] 	at org.gradle.workers.internal.NoIsolationWo
+rkerFactory$1$1.create(NoIsolationWorkerFactory.java:62)
+[        ] 	at org.gradle.internal.classloader.ClassLoad
+erUtils.executeInClassloader(ClassLoaderUtils.java:100)
+[        ] 	at org.gradle.workers.internal.NoIsolationWo
+rkerFactory$1.lambda$execute$0(NoIsolationWorkerFactory.
+java:62)
+[        ] 	at org.gradle.workers.internal.AbstractWorke
+r$1.call(AbstractWorker.java:44)
+[        ] 	at org.gradle.workers.internal.AbstractWorke
+r$1.call(AbstractWorker.java:41)
+[        ] 	at org.gradle.internal.operations.DefaultBui
+ldOperationRunner$CallableBuildOperationWorker.execute(D
+efaultBuildOperationRunner.java:204)
+[        ] 	at org.gradle.internal.operations.DefaultBui
+ldOperationRunner$CallableBuildOperationWorker.execute(D
+efaultBuildOperationRunner.java:199)
+[        ] 	at org.gradle.internal.operations.DefaultBui
+ldOperationRunner$2.execute(DefaultBuildOperationRunner.
+java:66)
+[        ] 	at org.gradle.internal.operations.DefaultBui
+ldOperationRunner$2.execute(DefaultBuildOperationRunner.
+java:59)
+[        ] 	at org.gradle.internal.operations.DefaultBui
+ldOperationRunner.execute(DefaultBuildOperationRunner.ja
+va:157)
+[        ] 	at org.gradle.internal.operations.DefaultBui
+ldOperationRunner.execute(DefaultBuildOperationRunner.ja
+va:59)
+[        ] 	at org.gradle.internal.operations.DefaultBui
+ldOperationRunner.call(DefaultBuildOperationRunner.java:
+53)
+[        ] 	at org.gradle.internal.operations.DefaultBui
+ldOperationExecutor.call(DefaultBuildOperationExecutor.j
+ava:73)
+[        ] 	at org.gradle.workers.internal.AbstractWorke
+r.executeWrappedInBuildOperation(AbstractWorker.java:41)
+[        ] 	at org.gradle.workers.internal.NoIsolationWo
+rkerFactory$1.execute(NoIsolationWorkerFactory.java:59)
+[        ] 	at org.gradle.workers.internal.DefaultWorker
+Executor.lambda$submitWork$0(DefaultWorkerExecutor.java:
+169)
+[        ] 	at java.base/java.util.concurrent.FutureTask
+.run(FutureTask.java:264)
+[        ] 	at org.gradle.internal.work.DefaultCondition
+alExecutionQueue$ExecutionRunner.runExecution(DefaultCon
+ditionalExecutionQueue.java:187)
+[        ] 	at org.gradle.internal.work.DefaultCondition
+alExecutionQueue$ExecutionRunner.access$700(DefaultCondi
+tionalExecutionQueue.java:120)
+[        ] 	at org.gradle.internal.work.DefaultCondition
+alExecutionQueue$ExecutionRunner$1.run(DefaultConditiona
+lExecutionQueue.java:162)
+[        ] 	at org.gradle.internal.Factories$1.create(Fa
+ctories.java:31)
+[        ] 	at org.gradle.internal.work.DefaultWorkerLea
+seService.withLocks(DefaultWorkerLeaseService.java:249)
+[        ] 	at org.gradle.internal.work.DefaultWorkerLea
+seService.runAsWorkerThread(DefaultWorkerLeaseService.ja
+va:109)
+[        ] 	at org.gradle.internal.work.DefaultWorkerLea
+seService.runAsWorkerThread(DefaultWorkerLeaseService.ja
+va:114)
+[        ] 	at org.gradle.internal.work.DefaultCondition
+alExecutionQueue$ExecutionRunner.runBatch(DefaultConditi
+onalExecutionQueue.java:157)
+[        ] 	at org.gradle.internal.work.DefaultCondition
+alExecutionQueue$ExecutionRunner.run(DefaultConditionalE
+xecutionQueue.java:126)
+[        ] 	at java.base/java.util.concurrent.Executors$
+RunnableAdapter.call(Executors.java:539)
+[        ] 	at java.base/java.util.concurrent.FutureTask
+.run(FutureTask.java:264)
+[        ] 	at org.gradle.internal.concurrent.ExecutorPo
+licy$CatchAndRecordFailures.onExecute(ExecutorPolicy.jav
+a:64)
+[        ] 	at org.gradle.internal.concurrent.ManagedExe
+cutorImpl$1.run(ManagedExecutorImpl.java:49)
+[        ] 	at java.base/java.util.concurrent.ThreadPool
+Executor.runWorker(ThreadPoolExecutor.java:1136)
+[        ] 	at java.base/java.util.concurrent.ThreadPool
+Executor$Worker.run(ThreadPoolExecutor.java:635)
+[        ] 	at 
+java.base/java.lang.Thread.run(Thread.java:840)
+[        ] Caused by: java.rmi.UnmarshalException: 
+Error unmarshaling return header; nested exception is: 
+[        ] 	java.net.SocketException: Connection reset
+[        ] 	at java.rmi/sun.rmi.transport.StreamRemoteCa
+ll.executeCall(StreamRemoteCall.java:255)
+[        ] 	at java.rmi/sun.rmi.server.UnicastRef.invoke
+(UnicastRef.java:165)
+[        ] 	at java.rmi/java.rmi.server.RemoteObjectInvo
+cationHandler.invokeRemoteMethod(RemoteObjectInvocationH
+andler.java:215)
+[        ] 	at java.rmi/java.rmi.server.RemoteObjectInvo
+cationHandler.invoke(RemoteObjectInvocationHandler.java:
+160)
+[        ] 	at 
+jdk.proxy4/jdk.proxy4.$Proxy112.compile(Unknown Source)
+[        ] 	at org.jetbrains.kotlin.compilerRunner.Gradl
+eKotlinCompilerWork.incrementalCompilationWithDaemon(Gra
+dleKotlinCompilerWork.kt:342)
+[        ] 	at org.jetbrains.kotlin.compilerRunner.Gradl
+eKotlinCompilerWork.compileWithDaemon(GradleKotlinCompil
+erWork.kt:239)
+[        ] 	... 38 more
+[        ] Caused by: java.net.SocketException: 
+Connection reset
+[        ] 	at java.base/sun.nio.ch.NioSocketImpl.implRe
+ad(NioSocketImpl.java:328)
+[        ] 	at java.base/sun.nio.ch.NioSocketImpl.read(N
+ioSocketImpl.java:355)
+[        ] 	at java.base/sun.nio.ch.NioSocketImpl$1.read
+(NioSocketImpl.java:808)
+[        ] 	at java.base/java.net.Socket$SocketInputStre
+am.read(Socket.java:966)
+[        ] 	at java.base/java.io.BufferedInputStream.fil
+l(BufferedInputStream.java:244)
+[        ] 	at java.base/java.io.BufferedInputStream.rea
+d(BufferedInputStream.java:263)
+[        ] 	at java.base/java.io.DataInputStream.readUns
+ignedByte(DataInputStream.java:288)
+[        ] 	at java.base/java.io.DataInputStream.readByt
+e(DataInputStream.java:268)
+[        ] 	at java.rmi/sun.rmi.transport.StreamRemoteCa
+ll.executeCall(StreamRemoteCall.java:241)
+[        ] 	... 44 more
+[        ] Failed to compile with Kotlin daemon: org.jetbrains.kotlin.gradle.tasks.DaemonCrashedException: Connection to the Kotlin daemon has been unexpectedly lost. This might be caused by the daemon being killed by another process or the operating system, or by JVM crash.
+[        ] 	at org.jetbrains.kotlin.compilerRunner.GradleKotlinCompilerWork.compileWithDaemon(GradleKotlinCompilerWork.kt:250)
+[        ] 	at org.jetbrains.kotlin.compilerRunner.GradleKotlinCompilerWork.compileWithDaemonOrFallbackImpl(GradleKotlinCompilerWork.kt:175)
+[        ] 	at org.jetbrains.kotlin.compilerRunner.GradleKotlinCompilerWork.run(GradleKotlinCompilerWork.kt:135)
+[        ] 	at org.jetbrains.kotlin.compilerRunner.GradleCompilerRunnerWithWorkers$GradleKotlinCompilerWorkAction.execute(GradleCompilerRunnerWithWorkers.kt:73)
+[        ] 	at org.gradle.workers.internal.DefaultWorkerServer.execute(DefaultWorkerServer.java:63)
+[        ] 	at org.gradle.workers.internal.NoIsolationWorkerFactory$1$1.create(NoIsolationWorkerFactory.java:66)
+[        ] 	at org.gradle.workers.internal.NoIsolationWorkerFactory$1$1.create(NoIsolationWorkerFactory.java:62)
+[        ] 	at org.gradle.internal.classloader.ClassLoaderUtils.executeInClassloader(ClassLoaderUtils.java:100)
+[        ] 	at org.gradle.workers.internal.NoIsolationWorkerFactory$1.lambda$execute$0(NoIsolationWorkerFactory.java:62)
+[        ] 	at org.gradle.workers.internal.AbstractWorker$1.call(AbstractWorker.java:44)
+[        ] 	at org.gradle.workers.internal.AbstractWorker$1.call(AbstractWorker.java:41)
+[        ] 	at org.gradle.internal.operations.DefaultBuildOperationRunner$CallableBuildOperationWorker.execute(DefaultBuildOperationRunner.java:204)
+[        ] 	at org.gradle.internal.operations.DefaultBuildOperationRunner$CallableBuildOperationWorker.execute(DefaultBuildOperationRunner.java:199)
+[        ] 	at org.gradle.internal.operations.DefaultBuildOperationRunner$2.execute(DefaultBuildOperationRunner.java:66)
+[        ] 	at org.gradle.internal.operations.DefaultBuildOperationRunner$2.execute(DefaultBuildOperationRunner.java:59)
+[        ] 	at org.gradle.internal.operations.DefaultBuildOperationRunner.execute(DefaultBuildOperationRunner.java:157)
+[        ] 	at org.gradle.internal.operations.DefaultBuildOperationRunner.execute(DefaultBuildOperationRunner.java:59)
+[        ] 	at org.gradle.internal.operations.DefaultBuildOperationRunner.call(DefaultBuildOperationRunner.java:53)
+[        ] 	at org.gradle.internal.operations.DefaultBuildOperationExecutor.call(DefaultBuildOperationExecutor.java:73)
+[        ] 	at org.gradle.workers.internal.AbstractWorker.executeWrappedInBuildOperation(AbstractWorker.java:41)
+[        ] 	at org.gradle.workers.internal.NoIsolationWorkerFactory$1.execute(NoIsolationWorkerFactory.java:59)
+[        ] 	at org.gradle.workers.internal.DefaultWorkerExecutor.lambda$submitWork$0(DefaultWorkerExecutor.java:169)
+[        ] 	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+[        ] 	at org.gradle.internal.work.DefaultConditionalExecutionQueue$ExecutionRunner.runExecution(DefaultConditionalExecutionQueue.java:187)
+[        ] 	at org.gradle.internal.work.DefaultConditionalExecutionQueue$ExecutionRunner.access$700(DefaultConditionalExecutionQueue.java:120)
+[        ] 	at org.gradle.internal.work.DefaultConditionalExecutionQueue$ExecutionRunner$1.run(DefaultConditionalExecutionQueue.java:162)
+[        ] 	at org.gradle.internal.Factories$1.create(Factories.java:31)
+[        ] 	at org.gradle.internal.work.DefaultWorkerLeaseService.withLocks(DefaultWorkerLeaseService.java:249)
+[        ] 	at org.gradle.internal.work.DefaultWorkerLeaseService.runAsWorkerThread(DefaultWorkerLeaseService.java:109)
+[        ] 	at org.gradle.internal.work.DefaultWorkerLeaseService.runAsWorkerThread(DefaultWorkerLeaseService.java:114)
+[        ] 	at org.gradle.internal.work.DefaultConditionalExecutionQueue$ExecutionRunner.runBatch(DefaultConditionalExecutionQueue.java:157)
+[        ] 	at org.gradle.internal.work.DefaultConditionalExecutionQueue$ExecutionRunner.run(DefaultConditionalExecutionQueue.java:126)
+[        ] 	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+[        ] 	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+[        ] 	at org.gradle.internal.concurrent.ExecutorPolicy$CatchAndRecordFailures.onExecute(ExecutorPolicy.java:64)
+[        ] 	at org.gradle.internal.concurrent.ManagedExecutorImpl$1.run(ManagedExecutorImpl.java:49)
+[        ] 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+[        ] 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+[        ] 	at java.base/java.lang.Thread.run(Thread.java:840)
+[        ] Caused by: java.rmi.UnmarshalException: Error unmarshaling return header; nested exception is: 
+[        ] 	java.net.SocketException: Connection reset
+[        ] 	at java.rmi/sun.rmi.transport.StreamRemoteCall.executeCall(StreamRemoteCall.java:255)
+[        ] 	at java.rmi/sun.rmi.server.UnicastRef.invoke(UnicastRef.java:165)
+[        ] 	at java.rmi/java.rmi.server.RemoteObjectInvocationHandler.invokeRemoteMethod(RemoteObjectInvocationHandler.java:215)
+[        ] 	at java.rmi/java.rmi.server.RemoteObjectInvocationHandler.invoke(RemoteObjectInvocationHandler.java:160)
+[        ] 	at jdk.proxy4/jdk.proxy4.$Proxy112.compile(Unknown Source)
+[        ] 	at org.jetbrains.kotlin.compilerRunner.GradleKotlinCompilerWork.incrementalCompilationWithDaemon(GradleKotlinCompilerWork.kt:342)
+[        ] 	at org.jetbrains.kotlin.compilerRunner.GradleKotlinCompilerWork.compileWithDaemon(GradleKotlinCompilerWork.kt:239)
+[        ] 	... 38 more
+[        ] Caused by: java.net.SocketException: Connection reset
+[        ] 	at java.base/sun.nio.ch.NioSocketImpl.implRead(NioSocketImpl.java:328)
+[        ] 	at java.base/sun.nio.ch.NioSocketImpl.read(NioSocketImpl.java:355)
+[        ] 	at java.base/sun.nio.ch.NioSocketImpl$1.read(NioSocketImpl.java:808)
+[        ] 	at java.base/java.net.Socket$SocketInputStream.read(Socket.java:966)
+[        ] 	at java.base/java.io.BufferedInputStream.fill(BufferedInputStream.java:244)
+[        ] 	at java.base/java.io.BufferedInputStream.read(BufferedInputStream.java:263)
+[        ] 	at java.base/java.io.DataInputStream.readUnsignedByte(DataInputStream.java:288)
+[        ] 	at java.base/java.io.DataInputStream.readByte(DataInputStream.java:268)
+[        ] 	at java.rmi/sun.rmi.transport.StreamRemoteCall.executeCall(StreamRemoteCall.java:241)
+[        ] 	... 44 more
+[        ] Using fallback strategy: Compile without Kotlin daemon
+[        ] Try ./gradlew --stop if this issue persists.
+[ +283 ms] exception: warning: ATTENTION!
+[        ] exception: this build uses unsafe internal 
+compiler arguments:
+[        ] exception: 
+[        ] exception: 
+[        ] exception: this mode is not recommended for 
+production use,
+[        ] exception: as no stability/compatibility 
+guarantees are given on
+[        ] exception: compiler or generated code. Use 
+it at your own risk!
+[        ] exception: 

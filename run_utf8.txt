@@ -1,0 +1,99 @@
+﻿Launching lib\main.dart on Chrome in debug mode...
+Waiting for connection from debug service on Chrome...          
+flutter : Package url_launcher:linux references 
+url_launcher_linux:linux as the default plugin, but the 
+package does not exist, or is not a plugin package.
+At line:1 char:1
++ flutter run -d chrome --no-pub > run_output.txt 2>&1
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (Package url_l 
+   au...plugin package.:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+Ask the maintainers of url_launcher to either avoid 
+referencing a default implementation via `platforms: 
+linux: default_package: url_launcher_linux` or create a 
+plugin named url_launcher_linux.
+
+Package shared_preferences:linux references 
+shared_preferences_linux:linux as the default plugin, but 
+the package does not exist, or is not a plugin package.
+Ask the maintainers of shared_preferences to either avoid 
+referencing a default implementation via `platforms: 
+linux: default_package: shared_preferences_linux` or 
+create a plugin named shared_preferences_linux.
+
+Package path_provider:linux references 
+path_provider_linux:linux as the default plugin, but the 
+package does not exist, or is not a plugin package.
+Ask the maintainers of path_provider to either avoid 
+referencing a default implementation via `platforms: 
+linux: default_package: path_provider_linux` or create a 
+plugin named path_provider_linux.
+
+Package file_picker:linux references file_picker:linux as 
+the default plugin, but it does not provide an inline 
+implementation.
+Ask the maintainers of file_picker to either avoid 
+referencing a default implementation via `platforms: 
+linux: default_package: file_picker` or add an inline 
+implementation to file_picker via `platforms: linux:` 
+`pluginClass` or `dartPluginClass`.
+
+Package file_picker:macos references file_picker:macos as 
+the default plugin, but it does not provide an inline 
+implementation.
+Ask the maintainers of file_picker to either avoid 
+referencing a default implementation via `platforms: 
+macos: default_package: file_picker` or add an inline 
+implementation to file_picker via `platforms: macos:` 
+`pluginClass` or `dartPluginClass`.
+
+Package shared_preferences:windows references 
+shared_preferences_windows:windows as the default plugin, 
+but the package does not exist, or is not a plugin package.
+Ask the maintainers of shared_preferences to either avoid 
+referencing a default implementation via `platforms: 
+windows: default_package: shared_preferences_windows` or 
+create a plugin named shared_preferences_windows.
+
+Package path_provider:windows references 
+path_provider_windows:windows as the default plugin, but 
+the package does not exist, or is not a plugin package.
+Ask the maintainers of path_provider to either avoid 
+referencing a default implementation via `platforms: 
+windows: default_package: path_provider_windows` or create 
+a plugin named path_provider_windows.
+
+Package image_picker:windows references 
+image_picker_windows:windows as the default plugin, but 
+the package does not exist, or is not a plugin package.
+Ask the maintainers of image_picker to either avoid 
+referencing a default implementation via `platforms: 
+windows: default_package: image_picker_windows` or create 
+a plugin named image_picker_windows.
+
+Package file_picker:windows references file_picker:windows 
+as the default plugin, but it does not provide an inline 
+implementation.
+Ask the maintainers of file_picker to either avoid 
+referencing a default implementation via `platforms: 
+windows: default_package: file_picker` or add an inline 
+implementation to file_picker via `platforms: windows:` 
+`pluginClass` or `dartPluginClass`.
+
+lib/screens/tax_wizard/tax_wizard_screen.dart:202:70: 
+Error: The argument type 'WidgetStatePropertyAll<Color>' 
+can't be assigned to the parameter type 'Color?'.
+ - 'WidgetStatePropertyAll' is from 
+'package:flutter/src/widgets/widget_state.dart' ('../../Dow
+nloads/flutter_windows_3.16.8-stable/flutter/packages/flutt
+er/lib/src/widgets/widget_state.dart').
+ - 'Color' is from 'dart:ui'.
+        Switch(value: value, onChanged: onChanged, 
+activeThumbColor: 
+WidgetStatePropertyAll(AppTheme.primaryGreen)),
+                                                           
+          ^
+Waiting for connection from debug service on Chrome...             22.1s
+Failed to compile application.

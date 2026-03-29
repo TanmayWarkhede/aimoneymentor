@@ -1,0 +1,13 @@
+﻿#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Native memory allocation (mmap) failed to map 264241152 bytes for G1 virtual space
+.\gradlew : Java HotSpot(TM) 64-Bit Server VM warning: INFO: os::commit_memory(0x0000000704c00000, 264241152, 0) failed; error='The paging 
+file is too small for this operation to complete' (DOS error/errno=1455)
+At line:1 char:13
++ cd android; .\gradlew assembleRelease --no-daemon > build_ultra_log.t ...
++             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (Java HotSpot(    TM...ror/errno=1455):String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+# An error report file with more information is saved as:
+# C:\Users\Tanmay\ai_money_mentor\ai_money_mentor\android\hs_err_pid202880.log

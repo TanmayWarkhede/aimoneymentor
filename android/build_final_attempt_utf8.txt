@@ -1,0 +1,59 @@
+﻿To honour the JVM settings for this build a single-use Daemon process will be forked. See https://docs.gradle.org/8.0/userguide/gradle_daemon.html#sec:disabling_the_daemon.
+Daemon will be stopped at the end of the build 
+
+> Configure project :gradle
+WARNING: Unsupported Kotlin plugin version.
+The `embedded-kotlin` and `kotlin-dsl` plugins rely on features of Kotlin `1.8.10` that might work differently than in the requested version `1.9.20`.
+
+> Task :gradle:checkKotlinGradlePluginConfigurationErrors
+> Task :gradle:pluginDescriptors UP-TO-DATE
+> Task :gradle:processResources
+
+> Task :gradle:compileKotlin FAILED
+.\gradlew : e: file:///C:/Users/Tanmay/Downloads/flut
+ter_windows_3.16.8-stable/flutter/packages/flutter_to
+ols/gradle/src/main/kotlin/FlutterPlugin.kt:744:21 
+Unresolved reference: filePermissions
+At line:1 char:13
++ cd android; .\gradlew assembleRelease --no-daemon 
+> build_final_attem ...
++             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (e: 
+file:/    //C:/U...filePermissions:String) [], 
+RemoteExcepti    on
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+e: file:///C:/Users/Tanmay/Downloads/flutter_windows_
+3.16.8-stable/flutter/packages/flutter_tools/gradle/s
+rc/main/kotlin/FlutterPlugin.kt:745:25 Unresolved 
+reference: user
+e: file:///C:/Users/Tanmay/Downloads/flutter_windows_
+3.16.8-stable/flutter/packages/flutter_tools/gradle/s
+rc/main/kotlin/FlutterPlugin.kt:746:29 Unresolved 
+reference: read
+e: file:///C:/Users/Tanmay/Downloads/flutter_windows_
+3.16.8-stable/flutter/packages/flutter_tools/gradle/s
+rc/main/kotlin/FlutterPlugin.kt:747:29 Unresolved 
+reference: write
+
+FAILURE: Build failed with an exception.
+
+* What went wrong:
+Execution failed for task ':gradle:compileKotlin'.
+> A failure occurred while executing org.jetbrains.ko
+tlin.compilerRunner.GradleCompilerRunnerWithWorkers$G
+radleKotlinCompilerWorkAction
+   > Compilation error. See log for more details
+
+* Try:
+> Run with --stacktrace option to get the stack 
+trace.
+> Run with --info or --debug option to get more log 
+output.
+> Run with --scan to get full insights.
+
+* Get more help at https://help.gradle.org
+
+BUILD FAILED in 21s
+4 actionable tasks: 3 executed, 1 up-to-date
